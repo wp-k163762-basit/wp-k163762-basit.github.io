@@ -1,0 +1,44 @@
+h2 {
+    text-align: center;
+}
+
+h4 {
+
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    border: 2px solid;
+
+}
+
+p {
+
+    margin-top: 30px;
+    margin-left: 15px;
+
+}
+
+.dc {
+    background-color: grey;
+    width: 360px;
+    height: 140px;
+    float: left;
+    margin-right: 15px;
+    border: 2px solid;
+}
+
+.h41 {
+    color: pink;
+}
+
+.h42 {
+    background-color: red;
+}
+
+.h43 {
+    color: yellow;
+}
+
+.mg {
+    margin-left: 160px;
+}
